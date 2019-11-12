@@ -41,7 +41,7 @@
       "text": "finish.md"
     }
   },
-  "environment": { "uilayout": "terminal", "hidefinish": true },
+  "environment": { "uilayout": "terminal", "hidefinish": true, "uimessage1": "In the beginning there was the command line"},
   "backend": {
     "imageid": "minikube-running"
   }
